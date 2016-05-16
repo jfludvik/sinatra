@@ -16,6 +16,8 @@ end
 
 Installez la gem Sinatra :
 
+Non on vas pas 
+
 ```shell
 gem install sinatra
 ```
